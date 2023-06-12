@@ -55,21 +55,7 @@
         </dependency>
 
 
-        <!-- SLF4J api -->
-        <!--<dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>2.0.1</version>
-        </dependency>-->
-
-        <!-- SLF4J-log4j12 bridge -->
-        <!--<dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-log4j12</artifactId>
-            <version>2.0.1</version>
-            <scope>runtime</scope>
-        </dependency>-->
-
+        <!-- log4j -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-api</artifactId>
